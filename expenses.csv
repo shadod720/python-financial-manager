@@ -1,0 +1,136 @@
+date,description,value,importance
+2026-01-01,hotel daily rate,250.0,5
+2026-01-02,breakfast,15.5,3
+2026-01-03,city bus fare,4.2,2
+2026-01-04,lunch at restaurant,38.9,4
+2026-01-05,grocery shopping,92.3,5
+2026-01-06,haircut,30.0,3
+2026-01-07,quick snack,12.0,2
+2026-01-08,technical book,59.9,4
+2026-01-09,streaming subscription,39.9,2
+2026-01-10,cinema ticket,27.0,3
+2026-01-11,taxi ride,22.5,3
+2026-01-12,new clothes,120.0,4
+2026-01-13,electricity bill,98.4,5
+2026-01-14,water bill,56.1,5
+2026-01-15,gasoline,135.0,5
+2026-01-16,online course,99.9,4
+2026-01-17,parking fee,10.0,2
+2026-01-18,charity donation,25.0,1
+2026-01-19,birthday gift,80.0,3
+2026-01-20,concert ticket,120.0,3
+2026-01-21,medication,22.3,4
+2026-01-22,headphones,59.0,3
+2026-01-23,laundry service,18.0,2
+2026-01-24,ice cream cup,9.5,1
+2026-01-25,pizza delivery,49.9,3
+2026-01-26,school supplies,27.9,2
+2026-01-27,university meal,6.9,5
+2026-01-28,printer cartridge,45.0,3
+2026-01-29,gym membership,89.9,4
+2026-01-30,phone charger,29.9,3
+2026-01-31,portable flashlight,19.9,2
+2026-02-01,thermal bottle,35.0,2
+2026-02-02,monthly rent,1200.0,5
+2026-02-03,phone credit,20.0,3
+2026-02-04,new mouse,49.9,3
+2026-02-05,umbrella,22.0,2
+2026-02-06,document folder,7.9,1
+2026-02-07,bluetooth earbuds,99.9,4
+2026-02-08,keyboard,89.0,3
+2026-02-09,"24"" monitor",799.0,4
+2026-02-10,jeans,89.9,3
+2026-02-11,sneakers,219.9,4
+2026-02-12,transport card reload,50.0,3
+2026-02-13,natural sandwich,11.0,2
+2026-02-14,fresh juice,7.5,2
+2026-02-15,street market groceries,32.7,3
+2026-02-16,gourmet coffee,18.9,2
+2026-02-17,college notebook,15.9,3
+2026-02-18,hostel stay,99.0,3
+2026-02-19,health insurance,220.0,5
+2026-02-20,medical consultation,180.0,5
+2026-02-21,bill payment,150.0,5
+2026-02-22,bank transfer,320.0,4
+2026-02-23,online purchase,67.0,3
+2026-02-24,internet package,89.9,4
+2026-02-25,software license,250.0,4
+2026-02-26,printer ink,39.9,2
+2026-02-27,32GB flash drive,24.9,2
+2026-02-28,new laptop,3499.0,5
+2026-03-01,decorative sticker,6.9,1
+2026-03-02,custom mug,19.9,2
+2026-03-03,bedding set,149.9,4
+2026-03-04,tool kit,89.9,3
+2026-03-05,romantic dinner,150.0,4
+2026-03-06,breakfast basket,79.9,3
+2026-03-07,underwear set,39.9,2
+2026-03-08,computer desk,299.0,4
+2026-03-09,ergonomic chair,599.0,5
+2026-03-10,LED light bulb,8.9,1
+2026-03-11,winter blanket,79.0,3
+2026-03-12,digital watch,119.9,3
+2026-03-13,phone holder,12.9,2
+2026-03-14,cable organizer,9.9,1
+2026-03-15,hand sanitizer,5.0,1
+2026-03-16,hygiene kit,18.5,3
+2026-03-17,dish soap,3.5,1
+2026-03-18,liquid soap,7.9,2
+2026-03-19,shampoo,12.9,3
+2026-03-20,conditioner,13.9,3
+2026-03-21,toilet paper,10.5,2
+2026-03-22,basic food basket,110.0,5
+2026-03-23,chocolate box,22.0,2
+2026-03-24,condensed milk,4.9,2
+2026-03-25,birthday cake,45.0,3
+2026-03-26,anniversary gift,99.9,3
+2026-03-27,assorted candy,15.0,1
+2026-03-28,travel package,1790.0,5
+2026-03-29,reusable bag,6.0,1
+2026-03-30,gardening kit,49.9,2
+2026-03-31,planner stickers,5.5,1
+2026-04-01,Airbnb stay,185.0,4
+2026-04-02,dental plan,120.0,4
+2026-04-03,deodorant,9.9,2
+2026-04-04,A4 paper pack,21.0,2
+2026-04-05,gas refill,125.0,5
+2026-04-06,trash bags,14.0,2
+2026-04-07,toothbrush,4.5,1
+2026-04-08,cereal bar,2.5,1
+2026-04-09,facial soap,11.9,2
+2026-04-10,new frying pan,89.9,3
+2026-04-11,pillow,29.9,2
+2026-04-12,measuring cup,6.9,1
+2026-04-13,photo frame,14.9,2
+2026-04-14,towel set,59.9,3
+2026-04-15,light jacket,109.9,3
+2026-04-16,phone case,24.9,2
+2026-04-17,portable speaker,129.9,3
+2026-04-18,thermometer,19.9,2
+2026-04-19,laundry basket,32.0,2
+2026-04-20,stainless pan set,229.0,4
+2026-04-21,yoga mat,39.9,3
+2026-04-22,fitness watch,199.0,4
+2026-04-23,USB hub,34.9,2
+2026-04-24,pocket notebook,4.9,1
+2026-04-25,sports shoes,299.0,4
+2026-04-26,mini fridge,599.0,5
+2026-04-27,water filter,149.0,4
+2026-04-28,microwave oven,489.0,5
+2026-04-29,t-shirt pack,89.9,3
+2026-04-30,sunscreen lotion,29.9,2
+2026-05-01,car wash,45.0,2
+2026-05-02,cooking oil,18.9,3
+2026-05-03,bread and milk,12.5,4
+2026-05-04,spices set,19.9,2
+2026-05-05,video game controller,229.0,3
+2026-05-06,plush blanket,89.0,3
+2026-05-07,tote bag,39.0,2
+2026-05-08,notebook cooler,49.9,3
+2026-05-09,travel pillow,29.9,2
+2026-05-10,foldable table,139.0,4
+2026-05-11,mobile tripod,35.0,2
+2026-05-12,phone power bank,99.0,4
+2026-05-13,picture album,24.0,1
+2026-05-14,smart lamp,129.0,3
+2026-05-15,beach umbrella,79.0,2
